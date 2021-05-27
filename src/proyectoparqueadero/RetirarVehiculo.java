@@ -21,7 +21,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Principal
+ * @author Jacob Salomon Saavedra Morales
  */
 public class RetirarVehiculo extends javax.swing.JPanel {
 

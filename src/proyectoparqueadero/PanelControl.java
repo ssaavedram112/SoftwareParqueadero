@@ -9,7 +9,7 @@ package proyectoparqueadero;
 
 /**
  *
- * @author Principal
+ * @author Jacob Salomon Saavedra Morales
  */
 public class PanelControl extends javax.swing.JFrame {
 

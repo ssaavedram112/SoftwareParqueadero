@@ -41,7 +41,7 @@ import javax.swing.JOptionPane;
 
 /*
  *
- * @author Principal
+ * @author Jacob Salomon Saaavedra Morales
  */
 public class IngresarVehiculo extends javax.swing.JPanel {
 

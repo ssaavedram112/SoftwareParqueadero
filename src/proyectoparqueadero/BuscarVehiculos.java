@@ -22,7 +22,7 @@ import javax.swing.table.TableColumnModel;
 
 /**
  *
- * @author Cesar Augusto Perez Tafur
+ * @author Jacob Salomon Saavedra Morales
  */
 public class BuscarVehiculos extends javax.swing.JPanel {
 
